@@ -1,0 +1,3 @@
+Open the Sql Server management Studio.
+ then First open "Project file" and  change the Create database FileName path 
+ then Execute the project and Execute file. 
